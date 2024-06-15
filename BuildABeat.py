@@ -12,7 +12,6 @@ from earsketch import *
 
 #background track (whole song)
 background = IRCA_LATIN_JAZZ_1_BASS
-
 backtrack1 = THEMUSICLOVER_SASANIRIRILOW1
 backtrack2 = THEMUSICLOVER_PAPAPAMADADA1
 backtrack3 = THEMUSICLOVER_HIGHTOLOWSWARAS
